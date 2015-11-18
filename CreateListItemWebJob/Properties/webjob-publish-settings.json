@@ -1,0 +1,9 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjob-publish-settings.json",
+  "webJobName": "CreateListItemWebJob",
+  "startTime": "2015-11-18T14:30:00+10:00",
+  "endTime": "2015-11-18T15:00:00+10:00",
+  "jobRecurrenceFrequency": "Minute",
+  "interval": 5,
+  "runMode": "Scheduled"
+}
